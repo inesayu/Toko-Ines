@@ -1,0 +1,1 @@
+<img class="card-img-top" src="../assets/images/sembako.png" alt="Ines" style="height: 350px">
